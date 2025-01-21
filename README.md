@@ -23,7 +23,7 @@ git pull
 git checkout -b <branch的名字>
 ```
 這會把目前branch內的東西複製一分到新的branch上，以下為了區分將剛新增的branch叫my-branch，原本的叫main branch
->此時的my-branch和main-branch內容是一樣的
+此時的my-branch和main-branch內容是一樣的
 ### 將修改後的內容傳給git
 #### git diff
 使用git diff可以看到修改後的程式與原先存在git的有什麼不同，這步不是必要，但有時可以避免ㄧ些錯誤
